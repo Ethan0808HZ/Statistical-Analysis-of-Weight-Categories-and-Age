@@ -24,7 +24,7 @@ This project investigates the relationship between obesity categories and age di
 
 ---
 
-## 🔧 Dependencies
+##  Dependencies
 
 This project was built in R. Install the following packages before running:
 
