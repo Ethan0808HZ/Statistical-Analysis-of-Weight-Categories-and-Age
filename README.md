@@ -16,7 +16,8 @@ This project investigates the relationship between obesity categories and age di
 ##  Dataset
 
 **Filename**: `ObesityDataSet_raw_and_data_sinthetic.csv`  
-**Source**: UCI Machine Learning Repository / Kaggle  
+**Source**: UCI Machine Learning Repository / Visit [Obesity Dataset](https://www.kaggle.com/datasets/somesh24/obesitydataset)  and [Artical](https://doi.org/10.1016/j.dib.2019.104344) for more information.
+
 **Features used**:
 - `Age`: Continuous variable
 - `NObeyesdad`: Original obesity classification (multi-category)
